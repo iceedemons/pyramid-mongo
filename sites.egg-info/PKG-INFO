@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: sites
+Version: 0.0
+Summary: sites
+Home-page: https://github.com/niallo/pyramid_mongodb
+Author: Niall O'Higgins
+Author-email: nialljohiggins@gmail.com
+License: UNKNOWN
+Description: sites README
+        
+        
+        
+        
+Keywords: web pyramid pylons mongodb
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Framework :: Pylons
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
